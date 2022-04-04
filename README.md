@@ -13,8 +13,3 @@ Files in the repository:
    - Creation, Insertion, manger&client queries and Triggers.
  - logical ERD
  - Physical ERD
-
-Contributors:
- - Gilad Shkalim
- - Mor Tavdi
- - Sharon Tavdi
